@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tasks_done">Tasks Done</string>
+    <string name="tasks_pending">Tasks Pending</string>
+    <string name="action_add">Add</string>
+    <string name="action_add_done">Add Done</string>
+    <string name="hint_task_name">Enter Task Name</string>
+    <string name="action_delete">Delete Items</string>
+</resources>
